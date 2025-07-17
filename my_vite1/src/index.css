@@ -1,0 +1,20 @@
+.abc{
+  border:10p;
+  border-color: rgb(0, 3, 3);
+  background-color: rgb(6, 126, 230);
+  margin:10px;
+  width: 300px;
+  height:300px;
+  align-content:center;
+  border-radius: 10px;
+}
+h2{
+  background-color: brown;
+  border-radius: 10px;
+  width: 250px;
+}
+input[type="submit"]{
+  background-color: black;
+  color:chocolate;
+  border-radius: 3px;
+}
